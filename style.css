@@ -678,6 +678,10 @@ footer span a:hover{
     background: #e4f21d;
     box-shadow: 0 0 50px rgba(242, 167, 29, 0.502)
 }
+.caixa:nth-child(5):hover{
+    background: #08a8e7;
+    box-shadow: 0 0 50px rgba(242, 167, 29, 0.502)
+}
 
 .social p{
     transform: translate(60px);
@@ -703,8 +707,11 @@ footer span a:hover{
 .facebook{
     background-color: #1877f2;
 }
-.twitter{
+.Instagram{
     background-color: #f2e41d;
+}
+.twitter{
+    background-color: #08a8e7;
 }
 
 .caixa:hover .icon{
